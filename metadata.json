@@ -1,0 +1,6 @@
+{
+  "name": "GymApp White-Label - Landing Page",
+  "description": "Landing page de alta conversão para app white-label de academias com treinos, check-in por QR, evolução e marca própria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
